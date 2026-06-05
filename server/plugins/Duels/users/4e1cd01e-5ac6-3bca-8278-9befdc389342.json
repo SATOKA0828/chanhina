@@ -1,0 +1,20 @@
+{
+  "uuid": "4e1cd01e-5ac6-3bca-8278-9befdc389342",
+  "name": "shogajanber_11",
+  "wins": 0,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "yumi": 1384
+  },
+  "matches": [
+    {
+      "winner": "Jonson_GG",
+      "loser": "shogajanber_11",
+      "kit": "yumi",
+      "time": 1776581224482,
+      "duration": 102926,
+      "health": 10.0
+    }
+  ]
+}

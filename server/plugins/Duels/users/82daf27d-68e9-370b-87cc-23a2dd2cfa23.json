@@ -1,0 +1,20 @@
+{
+  "uuid": "82daf27d-68e9-370b-87cc-23a2dd2cfa23",
+  "name": "crown37",
+  "wins": 0,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "japankit": 1386
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "crown37",
+      "kit": "japankit",
+      "time": 1776941213130,
+      "duration": 88344,
+      "health": 3.0
+    }
+  ]
+}

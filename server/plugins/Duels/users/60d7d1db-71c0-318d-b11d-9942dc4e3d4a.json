@@ -1,0 +1,54 @@
+{
+  "uuid": "60d7d1db-71c0-318d-b11d-9942dc4e3d4a",
+  "name": "yuutarou_6",
+  "wins": 4,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "kougekisaikyou": 1398,
+    "yuminomi": 1399,
+    "GOJOkit": 1416
+  },
+  "matches": [
+    {
+      "winner": "yuutarou_6",
+      "loser": "japan_a",
+      "kit": "kougekisaikyou",
+      "time": 1776600881503,
+      "duration": 13227,
+      "health": 8.0
+    },
+    {
+      "winner": "japan_a",
+      "loser": "yuutarou_6",
+      "kit": "kougekisaikyou",
+      "time": 1776600881503,
+      "duration": 14173,
+      "health": 10.0
+    },
+    {
+      "winner": "japan_a",
+      "loser": "yuutarou_6",
+      "kit": "kougekisaikyou",
+      "time": 1776600881503,
+      "duration": 17650,
+      "health": 9.5
+    },
+    {
+      "winner": "yuutarou_6",
+      "loser": "japan_a",
+      "kit": "kougekisaikyou",
+      "time": 1776600881503,
+      "duration": 41869,
+      "health": 4.0
+    },
+    {
+      "winner": "yuutarou_6",
+      "loser": "japan_a",
+      "kit": "GOJOkit",
+      "time": 1776600881503,
+      "duration": 16882,
+      "health": 3.0
+    }
+  ]
+}

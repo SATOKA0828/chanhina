@@ -1,0 +1,37 @@
+{
+  "uuid": "02c630a9-30bf-31f0-a64d-61245a8beec9",
+  "name": "robin_jp",
+  "wins": 2,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "daiyakenn": 1427,
+    "-": 1386
+  },
+  "matches": [
+    {
+      "winner": "robin_jp",
+      "loser": "GOJOSUKUNA",
+      "kit": "daiyakenn",
+      "time": 1776927861763,
+      "duration": 32944,
+      "health": 7.0
+    },
+    {
+      "winner": "robin_jp",
+      "loser": "metokumaMSYA",
+      "kit": "daiyakenn",
+      "time": 1776927861763,
+      "duration": 32711,
+      "health": 4.5
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "robin_jp",
+      "kit": "none",
+      "time": 1776937584445,
+      "duration": 19311,
+      "health": 5.5
+    }
+  ]
+}

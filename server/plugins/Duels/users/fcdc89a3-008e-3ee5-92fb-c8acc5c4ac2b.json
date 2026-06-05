@@ -1,0 +1,60 @@
+{
+  "uuid": "fcdc89a3-008e-3ee5-92fb-c8acc5c4ac2b",
+  "name": "GOJOSUKUNA",
+  "wins": 48,
+  "losses": 39,
+  "requests": true,
+  "rating": {
+    "yumi": 1379,
+    "daiyakenn": 1380,
+    "kougekisaikyou": 1454,
+    "nikkorikit": 1442,
+    "japankit": 1420,
+    "yuminomi": 1372,
+    "GOJOkit": 1406,
+    "Niko_320kit": 1428,
+    "-": 1449
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "yuukyuu",
+      "kit": "kougekisaikyou",
+      "time": 1779350647579,
+      "duration": 50783,
+      "health": 6.0
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "yuukyuu",
+      "kit": "nikkorikit",
+      "time": 1779355016709,
+      "duration": 111542,
+      "health": 7.5
+    },
+    {
+      "winner": "yuukyuu",
+      "loser": "GOJOSUKUNA",
+      "kit": "Niko_320kit",
+      "time": 1779355016709,
+      "duration": 94734,
+      "health": 4.0
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "yukkuriharu",
+      "kit": "daiyakenn",
+      "time": 1779961404022,
+      "duration": 55577,
+      "health": 3.0
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "Niko_320_RTA24",
+      "kit": "Niko_320kit",
+      "time": 1780572890816,
+      "duration": 52140,
+      "health": 3.0
+    }
+  ]
+}

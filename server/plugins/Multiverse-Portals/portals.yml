@@ -1,0 +1,122 @@
+portals:
+  kitpvp:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -15.0,51.0,135.0:-15.0,57.0,145.0
+    world: lobby
+    destination: 20260406-2003_2bdc61a52ef6efd30d
+  harusanntoko:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: 34.0,52.0,98.0:36.0,56.0,100.0
+    world: lobby
+    destination: tirunoha_nonnbiri_kurashitai
+  sabaibaru:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -93.0,24.0,-87.0:-84.0,44.0,-87.0
+    world: Hub
+    destination: sabaibaru
+  skywarslobby:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -39.0,24.0,-56.0:-36.0,28.0,-53.0
+    world: Hub
+    destination: skywarslobby
+  Hub:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -3.0,55.0,28.0:3.0,59.0,28.0
+    world: skywarslobby
+    destination: Hub
+  Jinrowarld:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -3.0,24.0,-1.0:-3.0,45.0,9.0
+    world: Hub
+    destination: Azuchi_Castle_by_Odawarer(2)
+  KITPVP:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -180.0,24.0,-2.0:-180.0,45.0,9.0
+    world: Hub
+    destination: 20260406-2003_2bdc61a52ef6efd30d
+  kaeriyou:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: 34.0,78.0,49.0:34.0,80.0,51.0
+    world: 20260406-2003_2bdc61a52ef6efd30d
+    destination: Hub
+  skyblock:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -145.0,24.0,55.0:-142.0,28.0,58.0
+    world: Hub
+    destination: Skylandia_v1.2
+  DUEL:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -94.0,24.0,91.0:-84.0,44.0,92.0
+    world: Hub
+    destination: tirunoha_nonnbiri_kurashitai
+  lobby:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: GOJOSUKUNA
+    location: -2.0,106.0,-5.0:2.0,109.0,-5.0
+    world: tirunoha_nonnbiri_kurashitai
+    destination: Hub

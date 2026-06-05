@@ -1,0 +1,58 @@
+{
+  "uuid": "7edc9bd1-5802-35f5-9bdb-dee10f3df6e0",
+  "name": "yayahahi",
+  "wins": 9,
+  "losses": 11,
+  "requests": true,
+  "rating": {
+    "yumi": 1368,
+    "daiyakenn": 1397,
+    "kougekisaikyou": 1385,
+    "japankit": 1390,
+    "yuminomi": 1411,
+    "GOJOkit": 1416,
+    "-": 1419
+  },
+  "matches": [
+    {
+      "winner": "yayahahi",
+      "loser": "japan_a",
+      "kit": "yuminomi",
+      "time": 1776600881503,
+      "duration": 23307,
+      "health": 3.0
+    },
+    {
+      "winner": "japan_a",
+      "loser": "yayahahi",
+      "kit": "yuminomi",
+      "time": 1776600881503,
+      "duration": 27521,
+      "health": 3.5
+    },
+    {
+      "winner": "yayahahi",
+      "loser": "japan_a",
+      "kit": "yuminomi",
+      "time": 1776600881503,
+      "duration": 22893,
+      "health": 5.0
+    },
+    {
+      "winner": "yuutarou_6",
+      "loser": "yayahahi",
+      "kit": "yuminomi",
+      "time": 1776600881503,
+      "duration": 21905,
+      "health": 5.5
+    },
+    {
+      "winner": "yayahahi",
+      "loser": "yuutarou_6",
+      "kit": "yuminomi",
+      "time": 1776600881503,
+      "duration": 28985,
+      "health": 5.5
+    }
+  ]
+}

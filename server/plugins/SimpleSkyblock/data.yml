@@ -1,0 +1,231 @@
+data:
+  players:
+    fcdc89a3-008e-3ee5-92fb-c8acc5c4ac2b:
+      balance: 125.0
+      island: 0
+      home:
+        nether: false
+        x: -2.99599975E7
+        y: 74.0
+        z: -2.99749995E7
+        pitch: 0
+        yaw: 0
+    2ce81093-f54e-384c-9555-42441f878ca7:
+      balance: 0.0
+    8aad840d-7f66-3af7-9365-98168bee2ab8:
+      balance: 31.25
+      island: 1
+      home:
+        nether: false
+        x: -2.99849975E7
+        y: 74.0
+        z: -2.99849995E7
+        pitch: 0
+        yaw: 0
+    47f7bc0d-3202-3320-a29e-2a33320941ff:
+      balance: 250.0
+      island: 2
+      home:
+        nether: false
+        x: -2.99799975E7
+        y: 74.0
+        z: -2.99849995E7
+        pitch: 0
+        yaw: 0
+    609e76d8-5e0a-3287-b673-e0c16ef8d755:
+      island: 3
+      home:
+        nether: false
+        x: -2.99749975E7
+        y: 78.0
+        z: -2.99749995E7
+        pitch: 0
+        yaw: 0
+  islands:
+    '0':
+      p1:
+        x: -29962500
+        y: 0
+        z: -29977500
+      p2:
+        x: -29957500
+        y: 256
+        z: -29972500
+      leader: fcdc89a3-008e-3ee5-92fb-c8acc5c4ac2b
+      members: []
+      settings:
+        useTrapdoors: false
+        killAnimals: false
+        useFenceGates: false
+        rideMobs: false
+        useCraftingTables: true
+        throwEggs: false
+        breedAnimals: false
+        useFurnaces: false
+        shearSheep: false
+        useEnderPearls: false
+        useBeds: false
+        useDoors: false
+        buttonsAndPressurePlates: false
+        tradeWithVillagers: true
+        useEnchantingTables: false
+        allowVisitors: true
+        useJukeboxes: false
+        useEnderChests: true
+        pickupItems: false
+        useBrewingStands: false
+        useBeacons: false
+        useChests: false
+        useAnvils: false
+        usePortals: true
+        useTrappedChests: false
+        dropItems: false
+      canReset: false
+      nether: false
+      resetsLeft: 0
+      trusts: []
+      passiveMobs: 10
+      generatorOres: []
+      level: 0
+    '1':
+      p1:
+        x: -29987500
+        y: 0
+        z: -29987500
+      p2:
+        x: -29982500
+        y: 256
+        z: -29982500
+      leader: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      members: []
+      settings:
+        useTrapdoors: false
+        killAnimals: false
+        useFenceGates: false
+        rideMobs: false
+        useCraftingTables: true
+        throwEggs: false
+        breedAnimals: false
+        useFurnaces: false
+        shearSheep: false
+        useEnderPearls: false
+        useBeds: false
+        useDoors: false
+        buttonsAndPressurePlates: false
+        tradeWithVillagers: true
+        useEnchantingTables: false
+        allowVisitors: true
+        useJukeboxes: false
+        useEnderChests: true
+        pickupItems: false
+        useBrewingStands: false
+        useBeacons: false
+        useChests: false
+        useAnvils: false
+        usePortals: true
+        useTrappedChests: false
+        dropItems: false
+      canReset: true
+      nether: false
+      resetsLeft: 3
+      trusts: []
+      passiveMobs: 0
+      generatorOres: []
+      level: 0
+    '2':
+      p1:
+        x: -29982500
+        y: 0
+        z: -29987500
+      p2:
+        x: -29977500
+        y: 256
+        z: -29982500
+      leader: 47f7bc0d-3202-3320-a29e-2a33320941ff
+      members: []
+      settings:
+        useTrapdoors: false
+        killAnimals: false
+        useFenceGates: false
+        rideMobs: false
+        useCraftingTables: true
+        throwEggs: false
+        breedAnimals: false
+        useFurnaces: false
+        shearSheep: false
+        useEnderPearls: false
+        useBeds: false
+        useDoors: false
+        buttonsAndPressurePlates: false
+        tradeWithVillagers: true
+        useEnchantingTables: false
+        allowVisitors: true
+        useJukeboxes: false
+        useEnderChests: true
+        pickupItems: false
+        useBrewingStands: false
+        useBeacons: false
+        useChests: false
+        useAnvils: false
+        usePortals: true
+        useTrappedChests: false
+        dropItems: false
+      canReset: true
+      nether: false
+      resetsLeft: 3
+      trusts: []
+      passiveMobs: 3
+      generatorOres: []
+      level: 0
+    '3':
+      p1:
+        x: -29977500
+        y: 0
+        z: -29977500
+      p2:
+        x: -29972500
+        y: 256
+        z: -29972500
+      leader: 609e76d8-5e0a-3287-b673-e0c16ef8d755
+      members: []
+      settings:
+        useTrapdoors: false
+        killAnimals: false
+        useFenceGates: false
+        rideMobs: false
+        useCraftingTables: true
+        throwEggs: false
+        breedAnimals: false
+        useFurnaces: false
+        shearSheep: false
+        useEnderPearls: false
+        useBeds: false
+        useDoors: false
+        buttonsAndPressurePlates: false
+        tradeWithVillagers: true
+        useEnchantingTables: false
+        allowVisitors: true
+        useJukeboxes: false
+        useEnderChests: true
+        pickupItems: false
+        useBrewingStands: false
+        useBeacons: false
+        useChests: false
+        useAnvils: false
+        usePortals: true
+        useTrappedChests: false
+        dropItems: false
+      canReset: true
+      nether: false
+      resetsLeft: 3
+      trusts: []
+      passiveMobs: -6
+      generatorOres: []
+      level: 0
+  nextIsland:
+    x: -29955000
+    y: 70
+    z: -29955000
+    key: 4
+  toClear: []
+mvhookedworlds: world

@@ -1,0 +1,54 @@
+{
+  "uuid": "b4c96c50-efb0-3fc5-987c-5d4d2d204e0c",
+  "name": "steve_6",
+  "wins": 3,
+  "losses": 7,
+  "requests": true,
+  "rating": {
+    "kougekisaikyou": 1369,
+    "daiyakenn": 1385,
+    "japankit": 1385
+  },
+  "matches": [
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 14544,
+      "health": 10.0
+    },
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 39191,
+      "health": 3.5
+    },
+    {
+      "winner": "reoto",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 31402,
+      "health": 9.5
+    },
+    {
+      "winner": "reoto",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 21227,
+      "health": 10.0
+    },
+    {
+      "winner": "steve_6",
+      "loser": "reoto",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 57908,
+      "health": 8.0
+    }
+  ]
+}

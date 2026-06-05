@@ -1,0 +1,727 @@
+id: 47f7bc0d-3202-3320-a29e-2a33320941ff
+name: satoudesu
+last_cast: 1778670854298
+cooldown_expiration: 0
+last_death_location: -61.699999988079036,71.87518719878484,-37.69999998807904,Skylandia_v1.2,-19.730835,-7.800003
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: air
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- world: sabaibaru
+  time_to_live: 0
+  name: Blink
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- world: sabaibaru
+  time_to_live: 0
+  name: Gatling Gun
+- time_to_live: 0
+  name: Grow
+- world: sabaibaru
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Phase
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- time_to_live: 0
+  name: Grow
+- world: sabaibaru
+  time_to_live: 0
+  name: Blink
+- time_to_live: 0
+  name: Phase
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- time_to_live: 0
+  name: Phase
+- time_to_live: 0
+  name: Heal
+- world: sabaibaru
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Poison
+- time_to_live: 0
+  name: Phase
+- time_to_live: 0
+  name: Phase
+- world: sabaibaru
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Heal
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- time_to_live: 0
+  name: Phase
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Blessing
+- world: sabaibaru
+  time_to_live: 0
+  name: Poison
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- world: sabaibaru
+  time_to_live: 0
+  name: Blink
+- world: sabaibaru
+  time_to_live: 0
+  name: Blink
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- time_to_live: 0
+  name: Sunny Day
+- time_to_live: 0
+  name: Sunny Day
+- time_to_live: 0
+  name: Sunny Day
+spells:
+  kill|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  entangle:
+    cast_count: 7
+    last_cast: 1778670730714
+    last_earn: 1778670730803
+    cooldown_expiration: 0
+  cure|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  commit:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  paint:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  convert:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flashbang:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling:
+    cast_count: 1
+    last_cast: 1778669958347
+    last_earn: 1778669958347
+    cooldown_expiration: 0
+  absorb:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  gills:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  healing:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  music:
+    cast_count: 1
+    last_cast: 1778670069103
+    last_earn: 1778670069103
+    cooldown_expiration: 0
+  frost:
+    cast_count: 2
+    last_cast: 1778670233451
+    last_earn: 1778670233450
+    cooldown_expiration: 0
+  fling|4:
+    cast_count: 2
+    last_cast: 1778670844180
+    last_earn: 1778670839279
+    cooldown_expiration: 0
+  superpyramid:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 3
+    last_cast: 1778670268845
+    last_earn: 1778670268945
+    cooldown_expiration: 0
+  fire:
+    cast_count: 1
+    last_cast: 1778669949646
+    last_earn: 1778669949752
+    cooldown_expiration: 0
+  wound|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  hat:
+    cast_count: 1
+    last_cast: 1778670030019
+    last_earn: 1778670030018
+    cooldown_expiration: 1778670060019
+  day:
+    cast_count: 3
+    last_cast: 1778670849906
+    last_earn: 1778670847890
+    cooldown_expiration: 0
+  superring:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  alter:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lightning:
+    cast_count: 11
+    last_cast: 1778670739055
+    last_earn: 1778670508258
+    cooldown_expiration: 0
+  phase:
+    cast_count: 6
+    last_cast: 1778670420780
+    last_earn: 1778670077071
+    cooldown_expiration: 1778670435780
+  reflect|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superdisc:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade:
+    cast_count: 5
+    last_cast: 1778670675641
+    last_earn: 1778670676496
+    cooldown_expiration: 0
+  grow:
+    cast_count: 0
+    last_cast: 1778670157227
+    last_earn: 0
+    cooldown_expiration: 1778670187227
+  tendril:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  night:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chop:
+    cast_count: 0
+    last_cast: 1778669883029
+    last_earn: 0
+    cooldown_expiration: 0
+  heal|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superconvert:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disarm:
+    cast_count: 1
+    last_cast: 1778670182718
+    last_earn: 1778669927997
+    cooldown_expiration: 0
+  fill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 3
+    last_cast: 1778669915893
+    last_earn: 1778669870271
+    cooldown_expiration: 0
+  pillar:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superbox:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  recurse:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superblob:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lift:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  force:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bridge:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrow|6:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supershell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blessing:
+    cast_count: 6
+    last_cast: 1778670686375
+    last_earn: 1778670686461
+    cooldown_expiration: 0
+  gather|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  petrify:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom:
+    cast_count: 2
+    last_cast: 1778669895913
+    last_earn: 1778669873629
+    cooldown_expiration: 0
+  anvil:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  emp:
+    cast_count: 0
+    last_cast: 1778670317986
+    last_earn: 0
+    cooldown_expiration: 0
+  box:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink:
+    cast_count: 2
+    last_cast: 1778670164980
+    last_earn: 1778669867468
+    cooldown_expiration: 0
+  paste:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  platform:
+    cast_count: 6
+    last_cast: 1778670744052
+    last_earn: 1778670431795
+    cooldown_expiration: 0
+  shell|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  harden:
+    cast_count: 0
+    last_cast: 1778670239965
+    last_earn: 0
+    cooldown_expiration: 0
+  lava:
+    cast_count: 9
+    last_cast: 1778670795956
+    last_earn: 1778670654943
+    cooldown_expiration: 0
+  laser:
+    cast_count: 1
+    last_cast: 1778670033118
+    last_earn: 1778670036122
+    cooldown_expiration: 0
+  superalter:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flamethrower:
+    cast_count: 1
+    last_cast: 1778669954048
+    last_earn: 1778669954947
+    cooldown_expiration: 0
+  heal:
+    cast_count: 0
+    last_cast: 1778670274445
+    last_earn: 0
+    cooldown_expiration: 0
+  place:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  ghast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  homing|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  iterate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  mine:
+    cast_count: 0
+    last_cast: 1778670402248
+    last_earn: 0
+    cooldown_expiration: 1778670412248
+  rollback:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  breach:
+    cast_count: 2
+    last_cast: 1778669892912
+    last_earn: 1778669876712
+    cooldown_expiration: 0
+  superbroom:
+    cast_count: 1
+    last_cast: 1778670855398
+    last_earn: 0
+    cooldown_expiration: 0
+  poison:
+    cast_count: 7
+    last_cast: 1778670745801
+    last_earn: 1778670745905
+    cooldown_expiration: 0
+  fire|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  counterspell:
+    cast_count: 0
+    last_cast: 1778669880517
+    last_earn: 0
+    cooldown_expiration: 0
+  column:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  meteor:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superkill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  familiar:
+    cast_count: 1
+    last_cast: 1778669944444
+    last_earn: 0
+    cooldown_expiration: 1778669974444
+  disintegrate:
+    cast_count: 0
+    last_cast: 1778670235407
+    last_earn: 0
+    cooldown_expiration: 0
+  gatling:
+    cast_count: 1
+    last_cast: 1778669994783
+    last_earn: 1778669999994
+    cooldown_expiration: 0
+  superdome:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  monster:
+    cast_count: 1
+    last_cast: 1778670063807
+    last_earn: 0
+    cooldown_expiration: 0
+  levitate|5:
+    cast_count: 1
+    last_cast: 1778670854360
+    last_earn: 0
+    cooldown_expiration: 1778670855360
+  pull:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrowrain:
+    cast_count: 5
+    last_cast: 1778670735602
+    last_earn: 1778670736005
+    cooldown_expiration: 0
+  missile|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink|6:
+    cast_count: 2
+    last_cast: 1778670841381
+    last_earn: 1778670841389
+    cooldown_expiration: 0
+wands:
+  wolf:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_HOE
+      amount: 0
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Heal§f (§3The Wolf§f)
+        lore:
+        - §o§aNathanWolf's Staff/Broom
+        - §o§3Bound to japan_a
+        - Knows 180 Spells
+        - Has 50 Materials
+        - §3Superpowered
+        - §bSaturation II
+        - §bRegeneration II
+        - §bManifestation
+        - §bCost Reduction X
+        - §bCooldown Reduction X
+        - §3Invulnerability
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: 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
+    wand:
+      active_spell: heal|3
+      active_material: erase
+      path: architect
+      template: wolf
+      bound: true
+      indestructible: true
+      undroppable: true
+      consume_reduction: 1.0
+      cost_reduction: 2.0
+      cooldown_reduction: 2.0
+      effect_color: 0,a9e18c55b3e9,cbdb7533a4b1
+      effect_particle: ENCHANTMENT_TABLE
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 3.0
+      icon: gold_hoe
+      mode: INVENTORY
+      keep: true
+      overrides: max_dimension 1024
+      potion_effects: SATURATION,REGENERATION
+      materials: bedrock,clone@19,copy@17,diamond_block,dirt,emerald_block,erase@16,glass,glowstone,gold_block,grass,ice,iron_block,lapis_block,lava,leaves,log,map:128@21,map@20,mycel,obsidian,packed_ice,quartz_block,quartz_block:1,quartz_block:2,redstone_block,replicate@18,schematic:beacon,schematic:blacksmith,schematic:church,schematic:compact_house,schematic:creeper_rug,schematic:elder_tree,schematic:flare_beacon,schematic:garden_house,schematic:lantern,schematic:rainbow_blocks,schematic:small_house,schematic:stash_chest,sea_lantern,soul_sand,stained_clay,stained_glass,stained_glass_pane,stationary_lava,stationary_water,vine,water,wood,wool
+      spells: absorb@8,admission|2,alter@90,animate@51,anvil@45,arrowrain|2@72,arrow|6@35,backup@91,blast|4@132,blessing@115,blind,blink|6@1,blob|4@57,bomb,boomstown,boom|2@37,boon|4@135,box@92,breach|3,bridge@29,bubble|2,cage,camera@133,cat,chainlightning|3@166,chop|3,cloak,cluster,collapse|2@58,column,commit@93,convert@94,counterspell|2@59,cure|4@42,curse|2@66,day@4,defender@52,disarm|3@73,disintegrate@31,earth,earthquake,emp@81,entangle@60,familiar@85,farm@86,fill@10,fireball|4@61,fire|3@33,flamethrower@62,flare|2@114,flashbang,fling|4@2,floodfill,force@34,forest,frost|4,fury|3@167,gather|2@40,gatling|2@168,ghast@38,gills@24,glider@56,grab,grenade|2@78,grow@26,harden|2@181,hat|3@142,healing@49,heal|3@6,homing|4@47,hunter@53,icbm@79,invincible,iterate@95,kill|3@36,laser|3@80,lava,levitate|5@0,life@82,lift@41,lightning|3@87,lockpick,meteor@44,mine|4@123,missile|4@3,mob@67,monster@68,mount@116,music@46,neutron|2@69,night@48,nuke|2@117,paint@27,paste@50,peek|4@153,permafrost,petrify@39,phase@118,phasebackup,pickpocket@134,pillar@96,place@9,platform|4@136,poison|3@77,pollinate,portal@119,pull@25,push|4@88,railgun,recall|3@23,recurse@97,reflect|4@43,regenerate@98,repair@99,rocket,rollback@15,rubberize,sandblast|2,secure|2,shell|4@63,shrink@64,shuriken|3@101,silence,simulate3@84,simulate@83,singularity@120,smite,sphere,sponge,stash@137,sticky|3@161,stream|3,stun|3@65,superalter@32,superbackup,superblast@100,superblob@11,superbox@105,superbroom@7,supercollapse@106,superconvert@12,supercube,supercylinder,superdisc@107,superdome@108,superemp,superhemisphere,superkill@5,superphase,superpyramid@109,superregenerate@110,superrepair@14,superring@111,supershell@13,supertorch,tag@70,tame,tendril@30,tent,torch|4@22,tornado|2,torture|3@121,toss@112,tracking|4@155,tree@89,tunnel,virus@54,volley@113,walls,warpmenu,warpunlock,wave|2@147,weather,whip,wither|3@71,wolf,wolfhouse@122,workbench,worm@55,wound|3@28
+      powered: true
+      protected: true
+      id: 4dbca763-2e60-4e5e-a244-cad944693e5b
+      owner: japan_a
+      owner_id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      name: The Wolf
+      description: NathanWolf's Staff/Broom
+  architect:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Blob§f (§3Architect Wand§f)
+        lore:
+        - §o§aArchitect Magic Wand
+        - §o§3Bound to japan_a
+        - Knows 28 Spells
+        - Has 25 Materials
+        - '§d§oMana: 500'
+        - '§r§dMana Regeneration: 100/s'
+        - §bProtection V
+        - §bFall Protection V
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAA/2VUPZPbNhCFbcmhLzcXO4WbNC5cQjcEv5UKKVymTslZEKCEHEggAHiny+THe/mh5G7SaPYBq92HfW95Q8gN2T3BKBPyE3RRP6p2gKi8BkP2Jw8hJCSJanAGT8kH8N1ZR9XFhLy/OEy9kH2ZpvcpZtmnUflWS/K1AZBNkcpD3VfVIYe+PhzzqjwcG1Y1QqkMRJOQne7sSG5P1sjW6e4BLiohn1XfY/nWgY+6M6r1IPUUyLv0PkvIj1KFzmsXNf7z41cH8fzldzjp7ssfyxNunLczu/n6HZtZ7eacV7xvkXfUgwoRBkc+sfu6bqo6LeumqNk3hl1uNw6dNdaTXxpQKq+OMpcipyl9CRPydn6vyHuWptAdmOiLQ9HI8gDZsTz0BavZkWVNls9lzzYK8Fh2GuNG731wypjw5h5EsF7wlILB6XNGhbGCZ1TYC8+p8FqeFC8oUpqGkZcYDIOOvMJgfFQ+8pr22hh+pPhMj1pxllKjHnWc47ykDvQYOWPUYRpgh4yiph3m5XMQe+sHnlfUq27yAY8L6q0xAroHzkoazsjzn4I3NEwOG6wsqxUtXFm9AWTMtrQrOXZcsdSh41m6ATsonrEVuGcPg5Y8y1bs9XjiWb6CpTnPChot6sjzGp0wjdJb50AYRXbRT+id/eJA8sOf4GBsAR2NUnt1UuM8kdkTe7Z69X8us30fVJxdhpruBSokr1Xv9Iiuwxht9aLZ7bYti4BkN48gIT//57+2B2PwEZvQd1tHMQksEq5VPlyXLbxJOrtcRTsqVNU986ykUsNgR9li+e4BkY9UDfP4r0cYo1hZRU8GdxV/7dNaYVmrNWdZY6o9kloPDDgdtngAx7OaWhE0NhvpXxPO5O/t8iX4lb2GGVpFLr225IArSHGr9Khk2xl4/hes3F4hHD2SXKnGsx63nCdrcY13D0q564h2IwyK3P123eBt1d9e3PbpIeQ7OlekW8YEAAA=
+    wand:
+      active_spell: blob
+      active_material: grass
+      path: architect
+      template: architect
+      xp: 500.0
+      xp_regeneration: 100.0
+      xp_max: 500.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_bubbles: true
+      effect_color: 8aee369d3db3,0,8aee369d3db3
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: gold_pickaxe
+      keep: true
+      protection: 1.0
+      protection_falling: 1.0
+      materials: cobblestone,copy@25,diamond_block,dirt,emerald_block,erase@26,glass,glowstone,gold_block,grass,iron_block,lapis_block,map@27,obsidian,quartz_block,quartz_block:1,quartz_block:2,redstone_block,sand,stained_clay,stained_glass,stained_glass_pane,stone,thin_glass,wood
+      spells: absorb@0,alter@1,blob@2,box@3,bridge@4,column@5,commit@6,convert@7,fill@9,iterate@10,levitate@35,paint@11,pillar@12,place@13,platform@36,recurse@14,rollback@15,shell|4@8,superalter@16,superblob@17,superbox@18,superconvert@19,superdisc@20,superdome@21,superpyramid@22,superring@23,supershell@24,torch@37
+      id: b3f100ac-1bf4-48d5-a295-f41719128232
+      owner: japan_a
+      owner_id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      name: Architect Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.778670578471E12
+  master:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Entangle§f (§3Wand§f)
+        lore:
+        - §o§aWizard Magic Wand
+        - §o§3Bound to satoudesu
+        - Knows 48 Spells
+        - '§d§oMana: 250'
+        - '§r§dMana Regeneration: 50/s'
+        - §bPhysical Protection V
+        - §bFall Protection V
+        - §bFire Protection V
+        - §bBlast Protection V
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAA/2VUwY7TMBA1EFZhdwUIBGcOe3RXsZM27c0cOAISAu2xmiSTxNrEtmx3W/gz/o5xtytWcHGfO+M3b8bPOWfsnGV7MF3O8oizmyAiO5shRPQ5e4V9j23cOvBRtxOyF9+/3nzZfvzx7WPOzg5uO8OBPZfL4rrI2VvnbaRsbc3WjT+DbmFiz4rrNVHbvUG/1R27quq+btqiW5SykIuS1gXIDS4klGmzqUTf5yzTrTUsH+zUbeGAOXv/j5Kth07vQuKXObvoMLReu1Sbvb5yEMcPn2HQ7YebY2vvHknDg5tsIBRO4rKU/rfnS2or6hlDhNmx1+K6rterulgLsVx9ElTs8iSltZP1LDPWkL53/+pr7c5E9kymyTxNjdcbUffYwWIp2vWiasrlYlOIbtHJtlqvyrrbiIrIRxsb8A/HRTp+FhxOU3jyG7y3ew/aqJI3E4agzaAEQW1uldwQsI2SBW+snZWkgEdoRyUlb0frlKj4kRb9kVCJFe90AD+rUiSkKTR4MoASa05eUEJwNBHMMKGSvIdZTxq8EoS1p6yS9xPMGEeShV7J4z6MDSRZS9okfZKA9S0xrHjvbYhKFHyAeB9c88GjgQ5VRcjuldjwEXyHRq0JRFVKPiJMStacuKlKWRG4A1XwSQ9jNIlmyWdtUG3oh4ZCakXNZ7rhmPILPu/IjEpW3I1EocqSJ5+TqlmtuLM6WKNqAj7CxL1tbzFyv2sa9PoX8kAWaqh25GGksdHqad48OGsGikYa8swjDDzSsHj00N6SJr7XcUTP9zRxcuAFrd46B3RvLIt+R5559ciVaaAnPz4/Phb2IkC0OzL2jjLJkx4HpP/h6PHs/sn99yps3weMiagkoibVfqj2UhsiI0wFH4m4BNrf4fZoCZY/3HfO3jxWB1O6rpMfs1tE93A+M+QAlt2/s6cHd/ocMPYHL1sCcVsEAAA=
+    wand:
+      active_spell: entangle
+      path: master
+      template: master
+      xp: 250.0
+      xp_regeneration: 50.0
+      xp_max: 250.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: none
+      effect_particle: TOWN_AURA
+      effect_particle_count: 2.0
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: gold_axe
+      keep: true
+      protection_physical: 0.8
+      protection_falling: 1.0
+      protection_fire: 0.8
+      protection_explosions: 0.8
+      spells: arrowrain@3,blessing@1,blink@29,blob@20,boom@21,breach@22,chop@14,counterspell@16,disarm@31,disintegrate@18,emp@11,entangle@2,familiar@12,fire@13,flamethrower@23,flashbang@15,fling@25,force@26,frost@10,gatling@28,grenade@4,grow@19,harden@8,hat@32,heal@27,laser@34,lava@0,lightning@5,mine@9,missile@17,monster@30,music@24,phase@33,platform@6,poison@7,portal,rocket,rubberize,sandblast,shell,shrink,sponge,stream,tag,tent,tracking,wither,wound
+      id: 7917feda-51c8-4b35-901d-d2c48637d914
+      owner: satoudesu
+      owner_id: 47f7bc0d-3202-3320-a29e-2a33320941ff
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.77867081156E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 155

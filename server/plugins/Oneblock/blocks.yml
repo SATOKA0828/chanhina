@@ -1,0 +1,64 @@
+'0':
+- 'Level: 0 - &aGrass starter'
+- block: GREEN
+  weight: 1
+- block: SEGMENTED_20
+  weight: 1
+'1':
+- 'Level: 1 - &2Podzol & melon'
+'2':
+- 'Level: 2 - &2Forest'
+'3':
+- 'Level: 3 - Little cave'
+'4':
+- 'Level: 4 - Deposits of rocky rocks'
+'5':
+- 'Level: 5 - Little desert'
+'6':
+- 'Level: 6 - Ore deposit'
+'7':
+- 'Level: 7 - The first chest'
+'8':
+- 'Level: 8 - Deep forest'
+'9':
+- 'Level: 9 - Mine'
+'10':
+- 'Level: 10 - Snow?'
+'11':
+- 'Level: 11 - Red desert?'
+'12':
+- 'Level: 12 - Acacia & mushrooms'
+'13':
+- 'Level: 13 - Sea'
+'14':
+- 'Level: 14 - Am I rich?'
+'15':
+- 'Level: 15 - Mangrove swamp'
+'16':
+- 'Level: 16 - Obs...'
+'17':
+- 'Level: 17 - Hell!?'
+'18':
+- 'Level: 18 - Deep Dark'
+'19':
+- 'Level: 19 - Infernal terracotta?'
+'20':
+- 'Level: 20 - Is that quartz?'
+'21':
+- 'Level: 21 - Never mine...'
+'22':
+- 'Level: 22 - Never...'
+'23':
+- 'Level: 23 - Ne...'
+'24':
+- 'Level: 24 - Ancient City'
+'25':
+- 'Level: 25'
+'26':
+- 'Level: 26 - Deep crying'
+'27':
+- 'Level: 27'
+'28':
+- 'Level: 28 - The end?'
+MaxLevel:
+- 'Level: MAX'

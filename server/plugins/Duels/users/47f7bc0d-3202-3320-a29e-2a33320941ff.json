@@ -1,0 +1,56 @@
+{
+  "uuid": "47f7bc0d-3202-3320-a29e-2a33320941ff",
+  "name": "satoudesu",
+  "wins": 9,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "yumi": 1416,
+    "daiyakenn": 1419,
+    "kougekisaikyou": 1383,
+    "japankit": 1398,
+    "-": 1469
+  },
+  "matches": [
+    {
+      "winner": "satoudesu",
+      "loser": "japan_a",
+      "kit": "japankit",
+      "time": 1777025596949,
+      "duration": 62062,
+      "health": 3.5
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "yukkuriharu",
+      "kit": "daiyakenn",
+      "time": 1777025596949,
+      "duration": 22231,
+      "health": 3.0
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "reoto",
+      "kit": "none",
+      "time": 1777025596949,
+      "duration": 20457,
+      "health": 5.5
+    },
+    {
+      "winner": "reoto",
+      "loser": "satoudesu",
+      "kit": "japankit",
+      "time": 1777025596949,
+      "duration": 14515,
+      "health": 6.0
+    },
+    {
+      "winner": "reoto",
+      "loser": "satoudesu",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 93279,
+      "health": 8.0
+    }
+  ]
+}

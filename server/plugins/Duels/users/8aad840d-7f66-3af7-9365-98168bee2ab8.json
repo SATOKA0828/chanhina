@@ -1,0 +1,59 @@
+{
+  "uuid": "8aad840d-7f66-3af7-9365-98168bee2ab8",
+  "name": "japan_a",
+  "wins": 16,
+  "losses": 15,
+  "requests": true,
+  "rating": {
+    "yumi": 1443,
+    "daiyakenn": 1473,
+    "kougekisaikyou": 1386,
+    "nikkorikit": 1372,
+    "japankit": 1359,
+    "yuminomi": 1422,
+    "GOJOkit": 1384,
+    "-": 1370
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "japan_a",
+      "kit": "japankit",
+      "time": 1776859294950,
+      "duration": 52715,
+      "health": 3.5
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "japan_a",
+      "kit": "nikkorikit",
+      "time": 1776859294950,
+      "duration": 83026,
+      "health": 10.0
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "japan_a",
+      "kit": "none",
+      "time": 1776937584445,
+      "duration": 11345,
+      "health": 2.0
+    },
+    {
+      "winner": "japan_a",
+      "loser": "satoudesu",
+      "kit": "daiyakenn",
+      "time": 1777025596949,
+      "duration": 38829,
+      "health": 1.5
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "japan_a",
+      "kit": "japankit",
+      "time": 1777025596949,
+      "duration": 62062,
+      "health": 3.5
+    }
+  ]
+}

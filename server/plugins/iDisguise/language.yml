@@ -1,0 +1,58 @@
+console-use-command: §cThis command is for players only.
+currently-disguised-as-player: '§6You are currently disguised as player: %targetSkin%'
+odisguise-currently-disguised-as-player: '§6%player% is currently disguised as player:
+  %targetSkin%'
+currently-disguised-as-entity: '§6You are currently disguised as: %entityType%'
+odisguise-currently-disguised-as-entity: '§6%player% is currently disguised as: %entityType%'
+currently-not-disguised: §6You are not disguised.
+odisguise-currently-not-disguised: §6%player% is not disguised.
+disguise-type-not-supported: §cCurrently not supported!
+disguise-type-not-found: '§cDisguise type not found: %entityType%'
+disguise-no-permission: §cYou don't have permission.
+disguise-event-cancelled: §cAnother plugin prevents you from disguising.
+odisguise-event-cancelled: §cAnother plugin prevents %player% from disguising.
+player-disguise-account-name-missing: §cPlease feed me an account name as well.
+player-disguise-account-name-invalid: §cThis account name is invalid.
+player-disguise-account-name-blacklisted: §cThis account name is blacklisted.
+disguised-successfully: §6Disguised successfully!
+disguise-error: §cSomething went wrong with the disguise.
+disguise-statement-error: '§cSomething went wrong with the additional statement: %statement%'
+disguise-statement-forbidden: '§cThis statement is forbidden: %statement%'
+disguise-statement-unknown: '§cThis statement is unknown or uses invalid syntax: %statement%'
+undisguised-successfully: §6Undisguised successfully!
+undisguise-not-disguised: §cYou are not disguised.
+undisguise-other-not-disguised: §c%player% is not disguised.
+undisguise-event-cancelled: §cAnother plugin prevents you from undisguising.
+undisguise-other-event-cancelled: §cAnother plugin prevents %player% from undisguising.
+odisguise-no-playername-given: §cPlease feed me the name of an online player.
+odisguise-player-not-found: '§cCan''t find player: %player%'
+odisguise-notification: §6You were disguised by %sender%.
+undisguise-notification: §6You were undisguised by %sender%.
+help-page-title: §2===== §liDisguise§r§2 Help Page %number% =====
+help-disguise-mob: '§6§lDisguise as a mob: §o/disguise <entity-type>\\§6Example: §o/disguise
+  zombie\\§6Use [TAB] to get a list of all entity types.\\§6After disguising, you
+  will be able to see your own disguise\\§6for five seconds.'
+help-disguise-player: '§6§lDisguise as a player: §o/disguise player <name>\\§6Example:
+  §o/disguise player Notch\\§6You can always see your own player disguise.'
+help-disguise-player-2: '§6§lDisguise as a player: §o/disguise player <name>\\§6Example:
+  §o/disguise player Notch\\§6You can''t see your own player disguise.'
+help-disguise-check: '§6§lCheck your disguise: §o/disguise\\§6You will be able to
+  see your own disguise for another five\\§6seconds.'
+help-undisguise: '§6§lUndisguise: §o/undisguise'
+help-disguise-alter: '§6§lAlter your disguise: §o/disguise <type> <statement> ...\\§6Example:
+  §o/disguise horse setColor(WHITE) setBaby()\\§6Use [TAB] after entering the entity
+  type to get a list of all\\§6possible statements.'
+help-ingame-help: '§6§lIn-game help: §o/disguise ? [page]'
+help-disguise-permission: §6By default, only server operators can use the commands.\\§6If you enable §ocommands.use-permission-nodes§r§6 in the\\§6§oconfig.yml§r§6, disguising requires the permission node\\§6§liDisguise.disguise.<entity-type>\\§6(e.g., §oiDisguise.disguise.SNOW_GOLEM§r§6 for the snow golem)\\§6or the wildcard §liDisguise.disguise.*
+help-odisguise: '§6§lDisguise another player: §o/odisguise <player>\\§6§l§o<entity-type>'
+help-undisguise-other: '§6§lUndisguise another player: §o/undisguise <player>'
+help-odisguise-info: §6Player disguise and statements work as well.
+help-ingame-help-2: '§6§lIn-game help: §o/odisguise ? [page]'
+help-odisguise-permission: §6By default, only server operators can use these commands.\\§6If you enable §ocommands.use-permission-nodes§r§6 in the\\§6§oconfig.yml§r§6, these commands require the permission node\\§6§liDisguise.others§r§6 AND the respective disguise-specific\\§6permission node.
+update-available: '§6[iDisguise] An update is available: %version%'
+update-already-downloaded: §6[iDisguise] Update already downloaded. Restart the server to apply.
+update-downloading: §6[iDisguise] Downloading update...
+update-download-succeeded: §6[iDisguise] Download succeeded. Restart the server to apply.
+update-download-failed: §c[iDisguise] Download failed.
+update-option: §6[iDisguise] You can enable automatic updates in the config file.
+version: iDisguise 6.0.4

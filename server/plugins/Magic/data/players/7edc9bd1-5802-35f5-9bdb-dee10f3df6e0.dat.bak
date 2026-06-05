@@ -1,0 +1,19 @@
+id: 7edc9bd1-5802-35f5-9bdb-dee10f3df6e0
+name: yayahahi
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 55.088426015444185,56.0,92.69999998807907,20260406-2003_2bdc61a52ef6efd30d,162.17542,49.771645
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

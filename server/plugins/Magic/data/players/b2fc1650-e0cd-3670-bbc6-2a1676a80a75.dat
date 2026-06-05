@@ -1,0 +1,19 @@
+id: b2fc1650-e0cd-3670-bbc6-2a1676a80a75
+name: fnpw
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -6.310228944636604,100.51819604904685,45.669472875292996,tirunoha_nonnbiri_kurashitai,-120.426605,-90.0
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

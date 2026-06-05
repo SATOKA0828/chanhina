@@ -1,0 +1,37 @@
+{
+  "uuid": "7e3b59dd-9762-3735-8fed-22cbfe2afba9",
+  "name": "neg1toroooooo",
+  "wins": 0,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "daiyakenn": 1368,
+    "nikkorikit": 1386
+  },
+  "matches": [
+    {
+      "winner": "fnpw",
+      "loser": "neg1toroooooo",
+      "kit": "daiyakenn",
+      "time": 1777803056227,
+      "duration": 115598,
+      "health": 7.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "neg1toroooooo",
+      "kit": "nikkorikit",
+      "time": 1777803056227,
+      "duration": 39712,
+      "health": 5.0
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "neg1toroooooo",
+      "kit": "daiyakenn",
+      "time": 1777803056227,
+      "duration": 46910,
+      "health": 1.0
+    }
+  ]
+}

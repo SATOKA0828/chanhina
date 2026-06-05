@@ -1,0 +1,853 @@
+id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+name: japan_a
+last_cast: 1778670517405
+cooldown_expiration: 0
+last_death_location: 72.52392917997042,129.0,-81.88497029656949,Azuchi_Castle_by_Odawarer(2),66.9003,12.0000105
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: grass
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- world: Imperialcity_v14.1
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- world: sabaibaru
+  time_to_live: 0
+  name: Fling
+- time_to_live: 0
+  name: Alter
+- world: sabaibaru
+  blocks:
+  - -20,75,14,sabaibaru|0:0
+  - -20,81,14,sabaibaru|0:0
+  - -20,75,15,sabaibaru|0:0
+  - -20,75,13,sabaibaru|0:0
+  - -20,81,15,sabaibaru|0:0
+  - -20,81,13,sabaibaru|0:0
+  - -19,75,15,sabaibaru|0:0
+  - -21,75,15,sabaibaru|0:0
+  - -19,75,13,sabaibaru|0:0
+  - -21,75,13,sabaibaru|0:0
+  - -19,81,15,sabaibaru|0:0
+  - -21,81,15,sabaibaru|0:0
+  - -19,81,13,sabaibaru|0:0
+  - -21,81,13,sabaibaru|0:0
+  - -19,75,14,sabaibaru|0:0
+  - -21,75,14,sabaibaru|0:0
+  - -19,81,14,sabaibaru|0:0
+  - -21,81,14,sabaibaru|0:0
+  - -20,75,16,sabaibaru|0:0
+  - -20,75,12,sabaibaru|0:0
+  - -20,81,16,sabaibaru|0:0
+  - -20,81,12,sabaibaru|0:0
+  - -19,75,16,sabaibaru|0:0
+  - -21,75,16,sabaibaru|0:0
+  - -19,75,12,sabaibaru|0:0
+  - -21,75,12,sabaibaru|0:0
+  - -19,81,16,sabaibaru|0:0
+  - -21,81,16,sabaibaru|0:0
+  - -19,81,12,sabaibaru|0:0
+  - -21,81,12,sabaibaru|0:0
+  - -18,75,16,sabaibaru|0:0
+  - -22,75,16,sabaibaru|0:0
+  - -18,75,12,sabaibaru|0:0
+  - -22,75,12,sabaibaru|0:0
+  - -18,81,16,sabaibaru|0:0
+  - -22,81,16,sabaibaru|0:0
+  - -18,81,12,sabaibaru|0:0
+  - -22,81,12,sabaibaru|0:0
+  - -18,75,15,sabaibaru|0:0
+  - -22,75,15,sabaibaru|0:0
+  - -18,75,13,sabaibaru|0:0
+  - -22,75,13,sabaibaru|0:0
+  - -18,81,15,sabaibaru|0:0
+  - -22,81,15,sabaibaru|0:0
+  - -18,81,13,sabaibaru|0:0
+  - -22,81,13,sabaibaru|0:0
+  - -18,75,14,sabaibaru|0:0
+  - -22,75,14,sabaibaru|0:0
+  - -18,81,14,sabaibaru|0:0
+  - -22,81,14,sabaibaru|0:0
+  - -20,78,17,sabaibaru|0:0
+  - -20,78,11,sabaibaru|0:0
+  - -20,77,17,sabaibaru|0:0
+  - -20,77,11,sabaibaru|0:0
+  - -20,79,17,sabaibaru|0:0
+  - -20,79,11,sabaibaru|0:0
+  - -20,76,17,sabaibaru|0:0
+  - -20,76,11,sabaibaru|0:0
+  - -20,80,17,sabaibaru|0:0
+  - -20,80,11,sabaibaru|0:0
+  - -20,75,17,sabaibaru|0:0
+  - -20,75,11,sabaibaru|0:0
+  - -20,81,17,sabaibaru|0:0
+  - -20,81,11,sabaibaru|0:0
+  - -19,78,17,sabaibaru|0:0
+  - -21,78,17,sabaibaru|0:0
+  - -19,78,11,sabaibaru|0:0
+  - -21,78,11,sabaibaru|0:0
+  - -19,77,17,sabaibaru|0:0
+  - -19,77,11,sabaibaru|0:0
+  - -21,77,11,sabaibaru|0:0
+  - -19,79,17,sabaibaru|0:0
+  - -21,79,17,sabaibaru|0:0
+  - -19,79,11,sabaibaru|0:0
+  - -21,79,11,sabaibaru|0:0
+  - -19,76,17,sabaibaru|0:0
+  - -21,76,17,sabaibaru|0:0
+  - -19,76,11,sabaibaru|0:0
+  - -21,76,11,sabaibaru|0:0
+  - -19,80,17,sabaibaru|0:0
+  - -21,80,17,sabaibaru|0:0
+  - -19,80,11,sabaibaru|0:0
+  - -21,80,11,sabaibaru|0:0
+  - -19,75,17,sabaibaru|0:0
+  - -21,75,17,sabaibaru|0:0
+  - -19,75,11,sabaibaru|0:0
+  - -21,75,11,sabaibaru|0:0
+  - -19,81,17,sabaibaru|0:0
+  - -21,81,17,sabaibaru|0:0
+  - -19,81,11,sabaibaru|0:0
+  - -21,81,11,sabaibaru|0:0
+  - -18,78,17,sabaibaru|0:0
+  - -22,78,17,sabaibaru|0:0
+  - -18,78,11,sabaibaru|0:0
+  - -22,78,11,sabaibaru|0:0
+  - -18,77,17,sabaibaru|0:0
+  - -22,77,17,sabaibaru|0:0
+  - -18,77,11,sabaibaru|0:0
+  - -22,77,11,sabaibaru|0:0
+  - -18,79,17,sabaibaru|0:0
+  - -22,79,17,sabaibaru|0:0
+  - -18,79,11,sabaibaru|0:0
+  - -22,79,11,sabaibaru|0:0
+  - -18,76,17,sabaibaru|0:0
+  - -22,76,17,sabaibaru|0:0
+  - -18,76,11,sabaibaru|0:0
+  - -22,76,11,sabaibaru|0:0
+  - -18,80,17,sabaibaru|0:0
+  - -22,80,17,sabaibaru|0:0
+  - -18,80,11,sabaibaru|0:0
+  - -22,80,11,sabaibaru|0:0
+  - -18,75,17,sabaibaru|0:0
+  - -22,75,17,sabaibaru|0:0
+  - -18,75,11,sabaibaru|0:0
+  - -22,75,11,sabaibaru|0:0
+  - -18,81,17,sabaibaru|0:0
+  - -22,81,17,sabaibaru|0:0
+  - -18,81,11,sabaibaru|0:0
+  - -22,81,11,sabaibaru|0:0
+  - -17,78,17,sabaibaru|0:0
+  - -23,78,17,sabaibaru|0:0
+  - -17,78,11,sabaibaru|0:0
+  - -17,77,17,sabaibaru|0:0
+  - -23,77,17,sabaibaru|0:0
+  - -17,77,11,sabaibaru|0:0
+  - -23,77,11,sabaibaru|0:0
+  - -17,79,17,sabaibaru|0:0
+  - -23,79,17,sabaibaru|0:0
+  - -17,79,11,sabaibaru|0:0
+  - -23,79,11,sabaibaru|0:0
+  - -17,76,17,sabaibaru|0:0
+  - -23,76,17,sabaibaru|0:0
+  - -17,76,11,sabaibaru|0:0
+  - -23,76,11,sabaibaru|0:0
+  - -17,80,17,sabaibaru|0:0
+  - -23,80,17,sabaibaru|0:0
+  - -17,80,11,sabaibaru|0:0
+  - -23,80,11,sabaibaru|0:0
+  - -17,75,17,sabaibaru|0:0
+  - -23,75,17,sabaibaru|0:0
+  - -17,75,11,sabaibaru|0:0
+  - -23,75,11,sabaibaru|0:0
+  - -17,81,17,sabaibaru|0:0
+  - -23,81,17,sabaibaru|0:0
+  - -17,81,11,sabaibaru|0:0
+  - -23,81,11,sabaibaru|0:0
+  - -17,78,16,sabaibaru|0:0
+  - -23,78,16,sabaibaru|0:0
+  - -17,78,12,sabaibaru|0:0
+  - -17,77,16,sabaibaru|0:0
+  - -23,77,16,sabaibaru|0:0
+  - -17,77,12,sabaibaru|0:0
+  - -17,79,16,sabaibaru|0:0
+  - -23,79,16,sabaibaru|0:0
+  - -17,79,12,sabaibaru|0:0
+  - -23,79,12,sabaibaru|0:0
+  - -17,76,16,sabaibaru|0:0
+  - -23,76,16,sabaibaru|0:0
+  - -17,76,12,sabaibaru|0:0
+  - -23,76,12,sabaibaru|0:0
+  - -17,80,16,sabaibaru|0:0
+  - -23,80,16,sabaibaru|0:0
+  - -17,80,12,sabaibaru|0:0
+  - -23,80,12,sabaibaru|0:0
+  - -17,75,16,sabaibaru|0:0
+  - -23,75,16,sabaibaru|0:0
+  - -17,75,12,sabaibaru|0:0
+  - -23,75,12,sabaibaru|0:0
+  - -17,81,16,sabaibaru|0:0
+  - -23,81,16,sabaibaru|0:0
+  - -17,81,12,sabaibaru|0:0
+  - -23,81,12,sabaibaru|0:0
+  - -17,78,15,sabaibaru|0:0
+  - -17,78,13,sabaibaru|0:0
+  - -17,77,15,sabaibaru|0:0
+  - -23,77,15,sabaibaru|0:0
+  - -17,77,13,sabaibaru|0:0
+  - -17,79,15,sabaibaru|0:0
+  - -23,79,15,sabaibaru|0:0
+  - -17,79,13,sabaibaru|0:0
+  - -23,79,13,sabaibaru|0:0
+  - -17,76,15,sabaibaru|0:0
+  - -23,76,15,sabaibaru|0:0
+  - -17,76,13,sabaibaru|0:0
+  - -23,76,13,sabaibaru|0:0
+  - -17,80,15,sabaibaru|0:0
+  - -23,80,15,sabaibaru|0:0
+  - -17,80,13,sabaibaru|0:0
+  - -23,80,13,sabaibaru|0:0
+  - -17,75,15,sabaibaru|0:0
+  - -23,75,15,sabaibaru|0:0
+  - -17,75,13,sabaibaru|0:0
+  - -23,75,13,sabaibaru|0:0
+  - -17,81,15,sabaibaru|0:0
+  - -23,81,15,sabaibaru|0:0
+  - -17,81,13,sabaibaru|0:0
+  - -23,81,13,sabaibaru|0:0
+  - -17,78,14,sabaibaru|0:0
+  - -17,77,14,sabaibaru|0:0
+  - -17,79,14,sabaibaru|0:0
+  - -17,76,14,sabaibaru|0:0
+  - -23,76,14,sabaibaru|0:0
+  - -17,80,14,sabaibaru|0:0
+  - -23,80,14,sabaibaru|0:0
+  - -17,75,14,sabaibaru|0:0
+  - -23,75,14,sabaibaru|0:0
+  - -17,81,14,sabaibaru|0:0
+  - -23,81,14,sabaibaru|0:0
+  time_to_live: 0
+  name: Box
+- time_to_live: 0
+  name: Bridge
+  consumed: true
+spells:
+  cluster:
+    cast_count: 1
+    last_cast: 1778670264379
+    last_earn: 1778670268494
+    cooldown_expiration: 0
+  kill|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  rocket:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stream|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cure|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  commit:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  paint:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  convert:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  absorb:
+    cast_count: 2
+    last_cast: 1778670459484
+    last_earn: 0
+    cooldown_expiration: 0
+  gills:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  healing:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  music:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling|4:
+    cast_count: 3
+    last_cast: 1778670401848
+    last_earn: 1778670395549
+    cooldown_expiration: 0
+  lockpick:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superpyramid:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 13
+    last_cast: 1777279337741
+    last_earn: 1777279304991
+    cooldown_expiration: 0
+  wound|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  silence:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  day:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superring:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supercube:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  alter:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  reflect|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superdisc:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  rubberize:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grow:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  levitate:
+    cast_count: 1
+    last_cast: 1778670521360
+    last_earn: 0
+    cooldown_expiration: 1778670551360
+  tendril:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  night:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  heal|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superconvert:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  pillar:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superbox:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 6
+    last_cast: 1778670512944
+    last_earn: 1778670484342
+    cooldown_expiration: 0
+  recurse:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superblob:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lift:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  force:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bridge:
+    cast_count: 1
+    last_cast: 1778670478581
+    last_earn: 1778670478581
+    cooldown_expiration: 0
+  arrow|6:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  supershell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  gather|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  petrify:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  anvil:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  box:
+    cast_count: 1
+    last_cast: 1778670468214
+    last_earn: 0
+    cooldown_expiration: 0
+  paste:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  platform:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shell|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superalter:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  place:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  ghast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  homing|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  iterate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  rollback:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superbroom:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fire|3:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  column:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  meteor:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superkill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom|2:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disintegrate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  superdome:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  levitate|5:
+    cast_count: 3
+    last_cast: 1778670304077
+    last_earn: 0
+    cooldown_expiration: 1778670305077
+  pull:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile|4:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink|6:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - '§eCooldown: §6A Moment'
+        - §o§3Bound to japan_a
+        - '§d§oMana: 50'
+        - '§r§dMana Regeneration: 5/s'
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAA/22RvXLbMBCEb2za4tia/DSpXXhcmRoQpAjwAVKmTsk5EAcJDgkgJBjp8QMqkSdFysMcdr/dewB4gOyETueQRxrDgJFgo8ngMsQc7vzJ0QSbNwzoOszh/hy6Ec+Q7dmO5fAxjRMdKC1htN7B7X59/kLGUB+7gFO0/UCdN2amCLdsVyWji2hnNTxLRC1rpgthmqao0IiirZp90cqykYqIo5KJQvnFacjitFAOme2TUX7yXndHT/9xm1DbZV7deA6PmuZ+suGC9+k5YDw+fcOD7Z++X2J/sC5tJOk+WjXQ1WWLaf5F3RxoGGAz2nm2w+q+CkCu6GBdSpEWUwXRjkkCxwCfy50Qgou2lk0p+dcyEWz/8vV+8BO8cCVaToZLJqvXsuml0HqvkZlXyVRVcupZjanE7AdReA/tcExsf5BvzuF6gLufi12LLdfhZq1UKd40Ja8KUQle1LqWRctFVZRIFRkmGy7TDbZHHxVOiWlx1+/3l6zzP2EfU+2TDwHfiwH4DR3CNCszAgAA
+    wand:
+      active_spell: missile
+      path: beginner
+      template: default
+      xp: 50.0
+      xp_regeneration: 5.0
+      xp_max: 50.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 2b792ef28083,16c87dd5da0f,80b312ec04a0
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      spells: missile
+      id: bb266123-7372-4d48-9273-1ae3ef086283
+      owner: japan_a
+      owner_id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.777279486182E12
+  wolf:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Fling§f (§3The Wolf§f)
+        lore:
+        - §o§aNathanWolf's Staff/Broom
+        - §o§3Bound to japan_a
+        - Knows 180 Spells
+        - Has 50 Materials
+        - §3Superpowered
+        - §bSaturation II
+        - §bRegeneration II
+        - §bManifestation
+        - §bCost Reduction X
+        - §bCooldown Reduction X
+        - §3Invulnerability
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: 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
+    wand:
+      active_spell: fling|4
+      active_material: erase
+      path: architect
+      template: wolf
+      bound: true
+      indestructible: true
+      undroppable: true
+      consume_reduction: 1.0
+      cost_reduction: 2.0
+      cooldown_reduction: 2.0
+      effect_color: 0,a9f2f2551ad9,cbf055ffb9d1
+      effect_particle: ENCHANTMENT_TABLE
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 3.0
+      icon: gold_hoe
+      mode: INVENTORY
+      keep: true
+      overrides: max_dimension 1024
+      potion_effects: SATURATION,REGENERATION
+      materials: bedrock,clone@19,copy@17,diamond_block,dirt,emerald_block,erase@16,glass,glowstone,gold_block,grass,ice,iron_block,lapis_block,lava,leaves,log,map:128@21,map@20,mycel,obsidian,packed_ice,quartz_block,quartz_block:1,quartz_block:2,redstone_block,replicate@18,schematic:beacon,schematic:blacksmith,schematic:church,schematic:compact_house,schematic:creeper_rug,schematic:elder_tree,schematic:flare_beacon,schematic:garden_house,schematic:lantern,schematic:rainbow_blocks,schematic:small_house,schematic:stash_chest,sea_lantern,soul_sand,stained_clay,stained_glass,stained_glass_pane,stationary_lava,stationary_water,vine,water,wood,wool
+      spells: absorb@8,admission|2,alter@90,animate@51,anvil@45,arrowrain|2@72,arrow|6@35,backup@91,blast|4@132,blessing@115,blind,blink|6@1,blob|4@57,bomb,boomstown,boom|2@37,boon|4@135,box@92,breach|3,bridge@29,bubble|2,cage,camera@133,cat,chainlightning|3@166,chop|3,cloak,cluster,collapse|2@58,column,commit@93,convert@94,counterspell|2@59,cure|4@42,curse|2@66,day@4,defender@52,disarm|3@73,disintegrate@31,earth,earthquake,emp@81,entangle@60,familiar@85,farm@86,fill@10,fireball|4@61,fire|3@33,flamethrower@62,flare|2@114,flashbang,fling|4@2,floodfill,force@34,forest,frost|4,fury|3@167,gather|2@40,gatling|2@168,ghast@38,gills@24,glider@56,grab,grenade|2@78,grow@26,harden|2@181,hat|3@142,healing@49,heal|3@6,homing|4@47,hunter@53,icbm@79,invincible,iterate@95,kill|3@36,laser|3@80,lava,levitate|5@0,life@82,lift@41,lightning|3@87,lockpick,meteor@44,mine|4@123,missile|4@3,mob@67,monster@68,mount@116,music@46,neutron|2@69,night@48,nuke|2@117,paint@27,paste@50,peek|4@153,permafrost,petrify@39,phase@118,phasebackup,pickpocket@134,pillar@96,place@9,platform|4@136,poison|3@77,pollinate,portal@119,pull@25,push|4@88,railgun,recall|3@23,recurse@97,reflect|4@43,regenerate@98,repair@99,rocket,rollback@15,rubberize,sandblast|2,secure|2,shell|4@63,shrink@64,shuriken|3@101,silence,simulate3@84,simulate@83,singularity@120,smite,sphere,sponge,stash@137,sticky|3@161,stream|3,stun|3@65,superalter@32,superbackup,superblast@100,superblob@11,superbox@105,superbroom@7,supercollapse@106,superconvert@12,supercube,supercylinder,superdisc@107,superdome@108,superemp,superhemisphere,superkill@5,superphase,superpyramid@109,superregenerate@110,superrepair@14,superring@111,supershell@13,supertorch,tag@70,tame,tendril@30,tent,torch|4@22,tornado|2,torture|3@121,toss@112,tracking|4@155,tree@89,tunnel,virus@54,volley@113,walls,warpmenu,warpunlock,wave|2@147,weather,whip,wither|3@71,wolf,wolfhouse@122,workbench,worm@55,wound|3@28
+      powered: true
+      protected: true
+      id: 69709c65-5ff2-4c36-b328-6d3e96e2f9c8
+      owner: japan_a
+      owner_id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      name: The Wolf
+      description: NathanWolf's Staff/Broom
+  architect:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Blob§f (§3Architect Wand§f)
+        lore:
+        - §o§aArchitect Magic Wand
+        - §o§3Bound to japan_a
+        - Knows 28 Spells
+        - Has 25 Materials
+        - '§d§oMana: 500'
+        - '§r§dMana Regeneration: 100/s'
+        - §bProtection V
+        - §bFall Protection V
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAA/2VUPZPbNhCFbcmhLzcXO4WbNC5cQjckSJFUKqRwmTolZwmAEnIggADQnS6TH+/lh5K7SaPZB6x2H/a95Q0hN2TzBFZm5CcQST+qboSkggZDtscAMWYkS2r0Bk/JBwjipJMSKSPvLx5TL2S7z/P7HLPck1Wh05J8bQFkW+Vy1wx1vSthaHaHst7vDm1Rt71SDPo2IxstnCW3R2dk57V4gIvKyGc1DFi+8xCSFkZ1AaQ+R/Iuv2cZ+VGqKIL2SeM/P371kE5ffoejFl/+mJ9w44Ob2E3X74qJ1WbKecX7FnknPaqYYPTkU3HfNG3d5Puyamv2rcAutysH4YwL5JcWlCrrgyxlX9KcvoQZeTu9VzCmygbkTlRtvquYELsDq4pdiVVZnufNIA5Y9uRSDwHLnm1a6b2PXhkT39xDH13oeU7B4PR5QXvjes5o7y68pH3Q8qh4RZHSebR8j8E46sRrDOyjCok3dNDG8APFZwbUihc5NepRpyku99SDtokXBfWYBtiBUdRUYF45BWlwYeRlTYMS5xDxuKLBGdODeODFnsYT8vyn4i2NZ48NFpb1gmauRbMCZFysaVdyxWHBUkfBWb4CNyrOigX45wCjlpyxBQdtj5yVC5ibc1bR5FBHXjbohLOVwXkPvVFkk8IZvbOdHUh++BM82A7Q0Sh1UEdlp4lMntgWi1f/5zI3DFGlyWWo6bZHheS16p226DqM0VYvmt2u2zILSDbTCDLy83/+6wYwBh+xCn23duzPPRaJ1yofrssW32TCzVfJWYWq+mfO9lRqGJ2VHZYXD4hComqcxn89whjFYjU9GtxV/HVPS4V5rZaceY2pDkhqOTDgdVzjETxnDXV91NjM0r/OOJO/18uX4NfiNWRoFTn3WpMjriDFrdJWyU4YeP4XLNxeIRw9klyoppO2a86Tc7jGmwel/HVEGwujIne/XTd4XfW3F79+egj5DqIKgRPGBAAA
+    wand:
+      active_spell: blob
+      active_material: grass
+      path: architect
+      template: architect
+      xp: 500.0
+      xp_regeneration: 100.0
+      xp_max: 500.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_bubbles: true
+      effect_color: 8aee369d3db3,0,8aee369d3db3
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: gold_pickaxe
+      keep: true
+      protection: 1.0
+      protection_falling: 1.0
+      materials: cobblestone,copy@25,diamond_block,dirt,emerald_block,erase@26,glass,glowstone,gold_block,grass,iron_block,lapis_block,map@27,obsidian,quartz_block,quartz_block:1,quartz_block:2,redstone_block,sand,stained_clay,stained_glass,stained_glass_pane,stone,thin_glass,wood
+      spells: absorb@0,alter@1,blob@2,box@3,bridge@4,column@5,commit@6,convert@7,fill@9,iterate@10,levitate@35,paint@11,pillar@12,place@13,platform@36,recurse@14,rollback@15,shell|4@8,superalter@16,superblob@17,superbox@18,superconvert@19,superdisc@20,superdome@21,superpyramid@22,superring@23,supershell@24,torch@37
+      id: c22e37ad-c480-42cc-9241-305320007fc9
+      owner: japan_a
+      owner_id: 8aad840d-7f66-3af7-9365-98168bee2ab8
+      name: Architect Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.778670534862E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 81

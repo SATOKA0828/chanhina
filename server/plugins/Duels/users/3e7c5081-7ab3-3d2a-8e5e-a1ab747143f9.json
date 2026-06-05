@@ -1,0 +1,37 @@
+{
+  "uuid": "3e7c5081-7ab3-3d2a-8e5e-a1ab747143f9",
+  "name": "yuutarou",
+  "wins": 1,
+  "losses": 2,
+  "requests": true,
+  "rating": {
+    "kougekisaikyou": 1373,
+    "GOJOkit": 1415
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "yuutarou",
+      "kit": "kougekisaikyou",
+      "time": 1776687816684,
+      "duration": 12362,
+      "health": 10.0
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "yuutarou",
+      "kit": "kougekisaikyou",
+      "time": 1776687816684,
+      "duration": 44943,
+      "health": 10.0
+    },
+    {
+      "winner": "yuutarou",
+      "loser": "GOJOSUKUNA",
+      "kit": "GOJOkit",
+      "time": 1776687816684,
+      "duration": 15797,
+      "health": 3.5
+    }
+  ]
+}

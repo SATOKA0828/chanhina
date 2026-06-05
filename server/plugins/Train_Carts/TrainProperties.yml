@@ -1,0 +1,35 @@
+train1:
+  carts:
+    505c753e-8bbb-46c4-856e-3e1b7843b3b7:
+      owners:
+        - gojosukuna
+train4:
+  carts:
+    4f54aff5-fe51-4d27-b467-c7dc77c025e4:
+      owners:
+        - japan_a
+train5:
+  carts:
+    0e70f739-a161-4a47-aea8-81a4940873ba:
+      owners:
+        - gojosukuna
+train7:
+  carts:
+    9d37b95a-de34-44e2-a1bc-0427c58ef829:
+      owners:
+        - gojosukuna
+train2:
+  carts:
+    2f30db07-7a6b-4d98-9da5-5c4a784dedd2:
+      owners:
+        - gojosukuna
+train3:
+  carts:
+    49430d7d-f760-4e14-b78a-992f8f6dd63c:
+      owners:
+        - gojosukuna
+train6:
+  carts:
+    35882689-a750-4bc0-9987-859320047439:
+      owners:
+        - gojosukuna

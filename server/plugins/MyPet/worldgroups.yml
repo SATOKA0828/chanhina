@@ -1,0 +1,44 @@
+# ######################################################################
+#           This is the world group configuration of MyPet             #
+#                 You can find more info on the wiki:                  #
+#   https://wiki.mypet-plugin.de/setup/configurations/worldgroups.yml  #
+# ######################################################################
+
+Disabled:
+- example_world
+Groups:
+  default:
+  - lobby
+  - lobby_nether
+  - lobby_the_end
+  - speedway-e3230
+  - sabaibaru
+  - 20260406-2003_2bdc61a52ef6efd30d
+  - 20260416-2014_598b2e893df238a7ac
+  - Wentworth_Mansion
+  - iDisguiseDummyWorld
+  - tirunoha_nonnbiri_kurashitai
+  - Azuchi_Castle_by_Odawarer(2)
+  - neza-
+  - end
+  - Imperialcity_v14.1
+  - '[1.8.8]_SJ#36_-_Retro_Crusader_-_v1.7'
+  - Hub
+  - skywarslobby
+  - skywars
+  - world
+  - world_nether
+  - 1a2lSky_Wars36_By435lLorard60
+  - Skylandia_v1.2
+  - OneBlock
+  - bedwars
+  - bedwars2
+  - Train_World_Shinkansen_2015_byFo
+  - bedwars3
+  - speedwaytriple
+  - trees
+  - trees2
+  - speedway-doubles
+  - bedwars-doubles
+  - bedwars-doubles2
+  - speedway3

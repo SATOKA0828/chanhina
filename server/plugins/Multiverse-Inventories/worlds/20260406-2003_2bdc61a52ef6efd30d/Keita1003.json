@@ -1,0 +1,1 @@
+{"SURVIVAL":{"inventoryContents":{"0":{"==":"org.bukkit.inventory.ItemStack","type":"ARROW","amount":2}},"armorContents":{"2":{"==":"org.bukkit.inventory.ItemStack","type":"CHAINMAIL_CHESTPLATE"}},"enderChestContents":{},"potions":"[]","stats":{"ex":"1.145699","ma":"300","fl":"20","el":"0","xp":"0.0","hp":"20","txp":"0","sa":"1.0","fd":"0.0","ft":"-20","ra":"300"}}}

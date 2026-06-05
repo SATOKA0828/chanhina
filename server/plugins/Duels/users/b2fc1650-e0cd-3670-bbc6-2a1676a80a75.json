@@ -1,0 +1,57 @@
+{
+  "uuid": "b2fc1650-e0cd-3670-bbc6-2a1676a80a75",
+  "name": "fnpw",
+  "wins": 16,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "yumi": 1443,
+    "daiyakenn": 1457,
+    "kougekisaikyou": 1418,
+    "nikkorikit": 1460,
+    "japankit": 1421,
+    "GOJOkit": 1429
+  },
+  "matches": [
+    {
+      "winner": "fnpw",
+      "loser": "ImAllNoob",
+      "kit": "daiyakenn",
+      "time": 1776859294950,
+      "duration": 37899,
+      "health": 4.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "ImAllNoob",
+      "kit": "nikkorikit",
+      "time": 1776859294950,
+      "duration": 20095,
+      "health": 10.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "neg1toroooooo",
+      "kit": "daiyakenn",
+      "time": 1777803056227,
+      "duration": 115598,
+      "health": 7.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "neg1toroooooo",
+      "kit": "nikkorikit",
+      "time": 1777803056227,
+      "duration": 39712,
+      "health": 5.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "GOJOSUKUNA",
+      "kit": "nikkorikit",
+      "time": 1777803056227,
+      "duration": 38059,
+      "health": 8.0
+    }
+  ]
+}

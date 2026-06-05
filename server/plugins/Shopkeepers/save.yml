@@ -1,0 +1,882 @@
+'0':
+  uniqueId: ac302f4d-eac7-4d7b-a096-c162699085cb
+  world: 20260406-2003_2bdc61a52ef6efd30d
+  x: 46
+  y: 37
+  z: 74
+  type: admin
+  object: villager
+  uuid: cc43e1f4-8e14-4b49-b305-a461610588c2
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MUSHROOM_SOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aRegenerative Soup §7(Right Click)
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COMPASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§b§lTarget: §3satoudesu §b§lDistance: §317.7'
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COMPASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPlayer Tracker §7(Right Click)
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COMPASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPlayer Tracker §7(Right Click)
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COMPASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPlayer Tracker §7(Right Click)
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: FISHING_ROD
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COMPASS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aPlayer Tracker §7(Right Click)
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MUSHROOM_SOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aRegenerative Soup §7(Right Click)
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_SWORD
+'1':
+  uniqueId: cb314a1b-50e7-4b4f-9fb1-d81c3b0945b2
+  name: saikyoukennmoraeru
+  world: 20260406-2003_2bdc61a52ef6efd30d
+  x: 25
+  y: 36
+  z: 25
+  type: admin
+  object: villager
+  uuid: e70f0488-1c40-4264-931a-c16b179aaae4
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MUSHROOM_SOUP
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aRegenerative Soup §7(Right Click)
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 3
+            PROTECTION_PROJECTILE: 4
+            OXYGEN: 3
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 3
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_EXPLOSIONS: 3
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_FALL: 4
+            PROTECTION_EXPLOSIONS: 3
+'2':
+  uniqueId: 0aece9db-53d4-4400-b2c3-f6b59680a1db
+  name: soubiya
+  world: 20260406-2003_2bdc61a52ef6efd30d
+  x: 46
+  y: 37
+  z: 75
+  type: admin
+  object: villager
+  uuid: 58b91b76-4499-4757-a132-e26f5e4ca906
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_HELMET
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_CHESTPLATE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_LEGGINGS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_BOOTS
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aThrowable TNT §7(Right Click)
+'3':
+  uniqueId: ba28ad15-9040-449c-a040-85ec5341c00e
+  name: shop
+  world: sabaibaru
+  x: 0
+  y: 79
+  z: 6
+  type: admin
+  object: villager
+  uuid: 53519d5d-5649-4944-b662-1345f6f14730
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 9
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        amount: 15
+'4':
+  uniqueId: 440f9578-9cad-46c3-a6c9-1e4650245774
+  name: netheriteshop
+  world: sabaibaru
+  x: -2
+  y: 78
+  z: 6
+  type: admin
+  object: villager
+  uuid: a3d4d079-2480-4080-8118-0a8bbc2bdcc3
+  prof: 3
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            OXYGEN: 3
+            WATER_WORKER: 1
+          repair-cost: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            OXYGEN: 3
+            WATER_WORKER: 1
+          repair-cost: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            OXYGEN: 3
+            WATER_WORKER: 1
+          repair-cost: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            OXYGEN: 3
+            WATER_WORKER: 1
+          repair-cost: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_sword
+          enchants:
+            DAMAGE_ALL: 5
+            DAMAGE_UNDEAD: 5
+            DAMAGE_ARTHROPODS: 2
+            KNOCKBACK: 2
+            LOOT_BONUS_MOBS: 3
+          repair-cost: 1
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: netherite_pickaxe
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+'5':
+  uniqueId: 3f6ba454-bfa2-426c-b485-12dcdfb237ce
+  name: isishop
+  world: sabaibaru
+  x: 2
+  y: 79
+  z: 7
+  type: admin
+  object: villager
+  uuid: a50ac1a5-6afb-4338-8145-0cc992e6cc3e
+  prof: 1
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_ORE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_ORE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRAVEL
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: FLINT
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE_CRYSTALS
+        amount: 4
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SEA_LANTERN
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+'6':
+  uniqueId: 37c78979-3270-4599-8ed2-0763fcdb53b5
+  name: orijinarunobukiya
+  world: sabaibaru
+  x: -1
+  y: 79
+  z: 6
+  type: admin
+  object: villager
+  uuid: d7ccf0ca-5a1d-43e0-8354-c96b4c076caf
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: GOD棒
+          enchants:
+            DAMAGE_ALL: 5
+            KNOCKBACK: 2
+            FIRE_ASPECT: 2
+            LOOT_BONUS_MOBS: 3
+          repair-cost: 15
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: ファイヤー棒
+          enchants:
+            FIRE_ASPECT: 2
+            LOOT_BONUS_MOBS: 3
+            KNOCKBACK: 2
+          repair-cost: 7
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: GODスター
+          enchants:
+            DIG_SPEED: 5
+            DAMAGE_ALL: 5
+            SILK_TOUCH: 1
+            ARROW_INFINITE: 1
+            KNOCKBACK: 2
+            FIRE_ASPECT: 2
+            LURE: 3
+          repair-cost: 63
+'7':
+  uniqueId: f6bb01b1-7794-47a5-9d5b-d3e716cad74d
+  name: kityounaisinokannteininn
+  world: sabaibaru
+  x: 4
+  y: 80
+  z: 8
+  type: admin
+  object: villager
+  uuid: 34631e69-4910-4a11-9fbd-f03b1002066e
+  prof: 4
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 10
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+'8':
+  uniqueId: f87b2347-1459-460e-889d-07b186c389fd
+  name: oreiya
+  world: sabaibaru
+  x: -3
+  y: 78
+  z: 6
+  type: admin
+  object: villager
+  uuid: 2dc2ca7e-3cb6-46c1-8b22-66c1ddbaa5c1
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 貴重な石
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          repair-cost: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 15
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 剣の研石
+          enchants:
+            DURABILITY: 3
+          repair-cost: 1

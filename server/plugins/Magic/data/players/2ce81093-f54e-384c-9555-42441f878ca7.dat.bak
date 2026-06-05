@@ -1,0 +1,19 @@
+id: 2ce81093-f54e-384c-9555-42441f878ca7
+name: yukkuriharu
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 37.69999998807906,72.0,66.54737833183287,speedwaytriple,90.90031,63.599953
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

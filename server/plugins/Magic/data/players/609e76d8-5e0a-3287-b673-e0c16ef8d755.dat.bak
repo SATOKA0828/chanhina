@@ -1,0 +1,19 @@
+id: 609e76d8-5e0a-3287-b673-e0c16ef8d755
+name: Niko_320_RTA24
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 0.31368195493594253,106.78944529720619,0.8273974105425008,tirunoha_nonnbiri_kurashitai,-180.60022,44.399998
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

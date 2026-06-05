@@ -1,0 +1,37 @@
+{
+  "uuid": "47b24c9a-63b9-3eaa-962b-44640148eeb3",
+  "name": "steve_14",
+  "wins": 2,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "kougekisaikyou": 1384,
+    "GOJOkit": 1430
+  },
+  "matches": [
+    {
+      "winner": "steve_14",
+      "loser": "nikkori",
+      "kit": "GOJOkit",
+      "time": 1777186036512,
+      "duration": 30206,
+      "health": 1.0
+    },
+    {
+      "winner": "nikkori",
+      "loser": "steve_14",
+      "kit": "kougekisaikyou",
+      "time": 1777186036512,
+      "duration": 21551,
+      "health": 10.0
+    },
+    {
+      "winner": "steve_14",
+      "loser": "nikkori",
+      "kit": "GOJOkit",
+      "time": 1777186036512,
+      "duration": 16457,
+      "health": 4.5
+    }
+  ]
+}

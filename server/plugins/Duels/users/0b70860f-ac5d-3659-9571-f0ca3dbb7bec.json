@@ -1,0 +1,56 @@
+{
+  "uuid": "0b70860f-ac5d-3659-9571-f0ca3dbb7bec",
+  "name": "reoto",
+  "wins": 7,
+  "losses": 8,
+  "requests": true,
+  "rating": {
+    "yumi": 1384,
+    "daiyakenn": 1398,
+    "kougekisaikyou": 1389,
+    "japankit": 1447,
+    "-": 1375
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "reoto",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 47736,
+      "health": 2.0
+    },
+    {
+      "winner": "reoto",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 31402,
+      "health": 9.5
+    },
+    {
+      "winner": "reoto",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 21227,
+      "health": 10.0
+    },
+    {
+      "winner": "steve_6",
+      "loser": "reoto",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 57908,
+      "health": 8.0
+    },
+    {
+      "winner": "reoto",
+      "loser": "satoudesu",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 93279,
+      "health": 8.0
+    }
+  ]
+}

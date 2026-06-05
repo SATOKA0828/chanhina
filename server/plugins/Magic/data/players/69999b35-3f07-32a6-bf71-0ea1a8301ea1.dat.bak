@@ -1,0 +1,19 @@
+id: 69999b35-3f07-32a6-bf71-0ea1a8301ea1
+name: COG_infinity
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 40.01701736147619,37.7531999805212,34.695178360339185,20260406-2003_2bdc61a52ef6efd30d,265.38568,9.595107
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

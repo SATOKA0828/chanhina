@@ -1,0 +1,53 @@
+{
+  "uuid": "3534c524-e672-3142-ba49-a99700f81137",
+  "name": "ImAllNoob",
+  "wins": 1,
+  "losses": 4,
+  "requests": true,
+  "rating": {
+    "nikkorikit": 1370,
+    "daiyakenn": 1386
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "ImAllNoob",
+      "kit": "nikkorikit",
+      "time": 1776857717723,
+      "duration": 30521,
+      "health": 10.0
+    },
+    {
+      "winner": "ImAllNoob",
+      "loser": "metokumaMSYA",
+      "kit": "nikkorikit",
+      "time": 1776857717723,
+      "duration": 14499,
+      "health": 4.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "ImAllNoob",
+      "kit": "nikkorikit",
+      "time": 1776859294950,
+      "duration": 60356,
+      "health": 10.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "ImAllNoob",
+      "kit": "daiyakenn",
+      "time": 1776859294950,
+      "duration": 37899,
+      "health": 4.0
+    },
+    {
+      "winner": "fnpw",
+      "loser": "ImAllNoob",
+      "kit": "nikkorikit",
+      "time": 1776859294950,
+      "duration": 20095,
+      "health": 10.0
+    }
+  ]
+}

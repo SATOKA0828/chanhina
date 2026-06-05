@@ -1,0 +1,29 @@
+{
+  "uuid": "d082094c-f8bc-37ae-8bed-a9f6efedbafe",
+  "name": "Jonson_GG",
+  "wins": 1,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "yumi": 1416,
+    "daiyakenn": 1385
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "Jonson_GG",
+      "kit": "daiyakenn",
+      "time": 1776580014284,
+      "duration": 31968,
+      "health": 0.5
+    },
+    {
+      "winner": "Jonson_GG",
+      "loser": "shogajanber_11",
+      "kit": "yumi",
+      "time": 1776581224482,
+      "duration": 102926,
+      "health": 10.0
+    }
+  ]
+}

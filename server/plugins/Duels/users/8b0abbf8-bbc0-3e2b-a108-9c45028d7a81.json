@@ -1,0 +1,38 @@
+{
+  "uuid": "8b0abbf8-bbc0-3e2b-a108-9c45028d7a81",
+  "name": "metokumaMSYA",
+  "wins": 1,
+  "losses": 2,
+  "requests": true,
+  "rating": {
+    "nikkorikit": 1384,
+    "daiyakenn": 1385,
+    "japankit": 1418
+  },
+  "matches": [
+    {
+      "winner": "metokumaMSYA",
+      "loser": "GOJOSUKUNA",
+      "kit": "japankit",
+      "time": 1776857717723,
+      "duration": 16961,
+      "health": 2.5
+    },
+    {
+      "winner": "ImAllNoob",
+      "loser": "metokumaMSYA",
+      "kit": "nikkorikit",
+      "time": 1776857717723,
+      "duration": 14499,
+      "health": 4.0
+    },
+    {
+      "winner": "robin_jp",
+      "loser": "metokumaMSYA",
+      "kit": "daiyakenn",
+      "time": 1776927861763,
+      "duration": 32711,
+      "health": 4.5
+    }
+  ]
+}

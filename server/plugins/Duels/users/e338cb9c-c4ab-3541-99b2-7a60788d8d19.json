@@ -1,0 +1,54 @@
+{
+  "uuid": "e338cb9c-c4ab-3541-99b2-7a60788d8d19",
+  "name": "nikkori",
+  "wins": 3,
+  "losses": 2,
+  "requests": true,
+  "rating": {
+    "kougekisaikyou": 1416,
+    "yuminomi": 1429,
+    "GOJOkit": 1370
+  },
+  "matches": [
+    {
+      "winner": "nikkori",
+      "loser": "GOJOSUKUNA",
+      "kit": "yuminomi",
+      "time": 1777186036512,
+      "duration": 70952,
+      "health": 10.0
+    },
+    {
+      "winner": "steve_14",
+      "loser": "nikkori",
+      "kit": "GOJOkit",
+      "time": 1777186036512,
+      "duration": 30206,
+      "health": 1.0
+    },
+    {
+      "winner": "nikkori",
+      "loser": "steve_14",
+      "kit": "kougekisaikyou",
+      "time": 1777186036512,
+      "duration": 21551,
+      "health": 10.0
+    },
+    {
+      "winner": "steve_14",
+      "loser": "nikkori",
+      "kit": "GOJOkit",
+      "time": 1777186036512,
+      "duration": 16457,
+      "health": 4.5
+    },
+    {
+      "winner": "nikkori",
+      "loser": "yukkuriharu",
+      "kit": "yuminomi",
+      "time": 1777186036512,
+      "duration": 39800,
+      "health": 10.0
+    }
+  ]
+}

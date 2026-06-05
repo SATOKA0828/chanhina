@@ -1,0 +1,163 @@
+[
+  {
+    "name": "test",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 15.557016124879732,
+        "y": 140.0,
+        "z": 1.8302039150648715,
+        "pitch": 14.5499935,
+        "yaw": 183.06439
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 15.437543091825427,
+        "y": 140.0,
+        "z": -13.614998842502029,
+        "pitch": 37.799995,
+        "yaw": 354.96436
+      }
+    }
+  },
+  {
+    "name": "hikouki",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 7.207802723603095,
+        "y": 113.0625,
+        "z": 42.53214767953753,
+        "pitch": 34.349995,
+        "yaw": 91.049805
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": -20.699999988079075,
+        "y": 113.0625,
+        "z": 42.56588624503928,
+        "pitch": -5.2500086,
+        "yaw": 267.2998
+      }
+    }
+  },
+  {
+    "name": "sirokunmap",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": -26.3646922885248,
+        "y": 140.0,
+        "z": 6.519570690294239,
+        "pitch": 90.0,
+        "yaw": 174.74988
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": -26.56309208160422,
+        "y": 140.0,
+        "z": -7.374151727485398,
+        "pitch": 3.8999922,
+        "yaw": 1.0499268
+      }
+    }
+  },
+  {
+    "name": "kinokomap",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 43.56754584858435,
+        "y": 144.0,
+        "z": 6.469055697383929,
+        "pitch": -10.500009,
+        "yaw": 311.7444
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 53.53817231376801,
+        "y": 144.0,
+        "z": 14.596105705397964,
+        "pitch": 6.8999925,
+        "yaw": 132.34436
+      }
+    }
+  },
+  {
+    "name": "japanmap",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 39.561891923963294,
+        "y": 144.0,
+        "z": -15.461140811969416,
+        "pitch": 4.949992,
+        "yaw": 323.8506
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 52.39672579938158,
+        "y": 144.0,
+        "z": -2.576142935752653,
+        "pitch": 19.649994,
+        "yaw": 99.15039
+      }
+    }
+  },
+  {
+    "name": "sirokunnnokamimap",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 48.367377373378346,
+        "y": 160.0,
+        "z": 24.674285801066034,
+        "pitch": 4.7961006,
+        "yaw": 5.0693054
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": 45.46167577474578,
+        "y": 160.0,
+        "z": 119.69999998807907,
+        "pitch": 10.349993,
+        "yaw": 186.56934
+      }
+    }
+  },
+  {
+    "name": "harusanntosatounokessakumap",
+    "disabled": false,
+    "kits": [ ],
+    "positions": {
+      "1": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": -0.5600714073752779,
+        "y": 135.0,
+        "z": 27.191523438119535,
+        "pitch": 23.849995,
+        "yaw": 177.1499
+      },
+      "2": {
+        "world": "tirunoha_nonnbiri_kurashitai",
+        "x": -0.8022743804448742,
+        "y": 131.0,
+        "z": 26.603194788889276,
+        "pitch": 7.9499927,
+        "yaw": 179.84985
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "uuid": "70c2fa4f-3a30-3003-8532-3d618fda4dc3",
+  "name": "NIKKORI_NOOB",
+  "wins": 2,
+  "losses": 3,
+  "requests": true,
+  "rating": {
+    "yumi": 1400,
+    "daiyakenn": 1401,
+    "-": 1387
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "NIKKORI_NOOB",
+      "kit": "none",
+      "time": 1776580014284,
+      "duration": 9767,
+      "health": 10.0
+    },
+    {
+      "winner": "NIKKORI_NOOB",
+      "loser": "GOJOSUKUNA",
+      "kit": "daiyakenn",
+      "time": 1776580014284,
+      "duration": 33597,
+      "health": 3.0
+    },
+    {
+      "winner": "japan_a",
+      "loser": "NIKKORI_NOOB",
+      "kit": "daiyakenn",
+      "time": 1776587649709,
+      "duration": 30553,
+      "health": 4.0
+    },
+    {
+      "winner": "NIKKORI_NOOB",
+      "loser": "GOJOSUKUNA",
+      "kit": "yumi",
+      "time": 1776587649709,
+      "duration": 66359,
+      "health": 2.0
+    },
+    {
+      "winner": "satoudesu",
+      "loser": "NIKKORI_NOOB",
+      "kit": "yumi",
+      "time": 1776587649709,
+      "duration": 31684,
+      "health": 6.5
+    }
+  ]
+}

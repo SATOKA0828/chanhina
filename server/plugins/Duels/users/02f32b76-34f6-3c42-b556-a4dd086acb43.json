@@ -1,0 +1,29 @@
+{
+  "uuid": "02f32b76-34f6-3c42-b556-a4dd086acb43",
+  "name": "ImNoGenius",
+  "wins": 1,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "daiyakenn": 1414,
+    "japankit": 1386
+  },
+  "matches": [
+    {
+      "winner": "ImNoGenius",
+      "loser": "GOJOSUKUNA",
+      "kit": "daiyakenn",
+      "time": 1776765258512,
+      "duration": 59692,
+      "health": 2.5
+    },
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "ImNoGenius",
+      "kit": "japankit",
+      "time": 1776765258512,
+      "duration": 112724,
+      "health": 2.5
+    }
+  ]
+}

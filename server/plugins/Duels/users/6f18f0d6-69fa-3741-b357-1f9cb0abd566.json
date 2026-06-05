@@ -1,0 +1,20 @@
+{
+  "uuid": "6f18f0d6-69fa-3741-b357-1f9cb0abd566",
+  "name": "Niko_320",
+  "wins": 0,
+  "losses": 1,
+  "requests": true,
+  "rating": {
+    "Niko_320kit": 1385
+  },
+  "matches": [
+    {
+      "winner": "GOJOSUKUNA",
+      "loser": "Niko_320",
+      "kit": "Niko_320kit",
+      "time": 1779347010168,
+      "duration": 31436,
+      "health": 9.0
+    }
+  ]
+}

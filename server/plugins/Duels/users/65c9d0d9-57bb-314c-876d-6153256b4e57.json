@@ -1,0 +1,54 @@
+{
+  "uuid": "65c9d0d9-57bb-314c-876d-6153256b4e57",
+  "name": "Lowshear",
+  "wins": 6,
+  "losses": 0,
+  "requests": true,
+  "rating": {
+    "daiyakenn": 1427,
+    "kougekisaikyou": 1446,
+    "japankit": 1418
+  },
+  "matches": [
+    {
+      "winner": "Lowshear",
+      "loser": "GOJOSUKUNA",
+      "kit": "daiyakenn",
+      "time": 1777025596949,
+      "duration": 39190,
+      "health": 1.5
+    },
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "daiyakenn",
+      "time": 1777025596949,
+      "duration": 38510,
+      "health": 2.0
+    },
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 34343,
+      "health": 2.0
+    },
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 14544,
+      "health": 10.0
+    },
+    {
+      "winner": "Lowshear",
+      "loser": "steve_6",
+      "kit": "kougekisaikyou",
+      "time": 1777025596949,
+      "duration": 39191,
+      "health": 3.5
+    }
+  ]
+}
