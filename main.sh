@@ -9,8 +9,8 @@ sudo apt install tmux -y
 
 #alias
 
-echo "alias s1='./server.sh'" >> ~/.bashrc
-echo "alias s2='./waterfall.sh'" >> ~/.bashrc
+echo "alias s1='cd /workspaces/chanhina/server && java -Xmx2G -Xms2G -jar server.jar nogui'" >> ~/.bashrc
+echo "alias s2='cd /workspaces/chanhina/waterfall && bash waterfall.sh'" >> ~/.bashrc
 
 #反映
 
